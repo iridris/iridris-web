@@ -1,5 +1,5 @@
-name = "Iridris-Web"
-compatibility_date = "2025-09-12"
+name = "iridris-web"
+compatibility_date = "2025-09-18"
 
 [site]
 bucket = "./public"
